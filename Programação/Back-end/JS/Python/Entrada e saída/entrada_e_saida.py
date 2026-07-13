@@ -1,0 +1,231 @@
+"Entrada e saída em python"
+
+"1 - Saída com print()"
+
+"Usado para mostrar informações na tela"
+
+print("Olá, mundo!")
+
+"Pode exibir múltiplos valores  "
+
+nome  = "João"
+idade = 25 
+print("Nome", nome, "Idade:", idade)
+
+"2 - Entrada como input()"
+
+"Captura dados digitados pelo usuário"
+
+nome = input("Digite seu nome:")
+print("Olá:", nome)
+
+"Sempre retorna uma string, para números, é necessário converter:"
+
+"3 - Formatando saída"
+
+"Usando f-strings"
+
+nome  = "João"
+idade = 25 
+print(f"Meu nome é {nome} e tenho {idade} anos")
+
+"4 - Exemplo prático"
+
+nome  = input("Qual seu nome?")
+idade = int(input("Qual sua idade?"))
+print(f"Olá{nome}, daqui á dez anos voce terá{idade + 10} anos!")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
