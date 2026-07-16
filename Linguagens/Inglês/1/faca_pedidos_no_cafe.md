@@ -13,10 +13,6 @@ Palavras isoladas e seu significado em Portugues e Alemão!
 11: and >>>  >>> e
 12: please >>>  >>> por favor
 12: Water >>>  >>> 
-12: please >>>  >>> 
-12: please >>>  >>> 
-12: please >>>  >>> 
-12: please >>>  >>> 
 
 Frases compostas e seu significado em Alemão e Portugues
 
@@ -27,6 +23,4 @@ Frases compostas e seu significado em Alemão e Portugues
 5: Tea, please >>>  >>> Chá, por favor
 6: Goodbye, thank you >>>  >>> Adeus, obrigado
 7: Water or coffe? >>> >>> água ou café?
-8:  >>> >>> 
-9:  >>>  >>> 
-10: >>>  >>>
+
